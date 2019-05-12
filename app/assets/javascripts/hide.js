@@ -7,4 +7,4 @@ function hideWhenClicked(){
 }
 
 
-  $("#hide_this").click(hideWhenClicked());
+  $("#hide_this").click(hideWhenClicked);
