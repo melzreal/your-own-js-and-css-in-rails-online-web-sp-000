@@ -1,6 +1,6 @@
 function hideWhenClicked(){
 
-    $(this).hide();
+$("#hide_this").hide();
 };
 
 
