@@ -3,9 +3,5 @@
 }
 
 .cool-background{
-  background: grey;
-}
-
-.body {
-  background: cool-background;
+  background-color: grey;
 }
