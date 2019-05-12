@@ -5,3 +5,7 @@
 .cool-background{
   background: grey;
 }
+
+.body {
+  cool-background;
+}
